@@ -1,4 +1,4 @@
-#!/usr/bin/php
+
 <?php
 $n = 8; 
 $maxRequests = 10;
